@@ -1,0 +1,26 @@
+.nav{
+	background-color:#DF0101;
+}
+div .se{
+	width: 750px;
+
+}
+div .me{
+	color: white;
+	font-size: 30px;
+	float: left;
+	margin-right: 20%;
+	margin-left: 10%;
+
+}
+div	.e{
+	color: white;
+	font-size: 40px;
+	text-align: center;
+}
+div .can{
+	color: lightgray;
+}
+div p.par{
+	color: lightgray; 
+}
